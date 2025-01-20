@@ -1,2 +1,2 @@
-# mi-portafolio
-Este es mi portafolio de proyectos
+# mi-portafolio REPOSITORIO
+Se alamcenará archivos HTML, para mostrar un ejemplo básico en la programación web.
